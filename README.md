@@ -29,6 +29,8 @@
 Clone the repo:
 
 ```bash
+git clone https://github.com/lyk412/Consistent123.git
+cd Consistent123
 ```
 
 ### Tested environments
