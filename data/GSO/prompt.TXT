@@ -1,0 +1,24 @@
+
+prompt of GSO cases
+
+data/GSO/backpack_rgba.png: School Backpack, Blue Streak
+data/GSO/bowl_rgba.png: Bowl with bone pattern
+data/GSO/dog_rgba.png: A dog
+data/GSO/epson_rgba.png: Epson Ink Cartridge
+data/GSO/laptop_rgba.png: Lenovo laptop
+data/GSO/morocco_rgba.png: Marc Anthony Skip Professional Oil of Morocco Conditioner with Argan Oil
+data/GSO/pot_rgba.png: Pressure Cooker in Black
+data/GSO/shoe_rgba.png: Classic boat shoe
+data/GSO/spiderman_rgba.png: Spider-Man 
+data/GSO/toy_car_rgba.png: a toy Bus
+
+data/GSO/Crosley_Alarm_Clock_Vintage_Metal_rgba.png: an alarm clock in vintage metal.
+data/GSO/GARDEN_SWING_rgba.png: a garden swing which includes a swing, a canopy and 2 cushions.
+data/GSO/KITCHEN_SET_CLASSIC_rgba.png: a classic kitchen set.
+data/GSO/Olive_Kids_Trains_Planes_Trucks_Bogo_Backpack_rgba.png: Kids Backpack.
+data/GSO/Ortho_Forward_Facing_rgba.png: a doll.
+data/GSO/PARENT_ROOM_FURNITURE_SET_rgba.png: a furniture set which includes a bed with blanket, an armoire, a vanity and a stool made of Eco-Friendly PlanWood and solid rubber wood.
+data/GSO/Retail_Leadership_Summit_rgba.png: A brown hat with a brim.
+data/GSO/Room_Essentials_Mug_White_Yellow_rgba.png: A cup that is half white and half yellow in color
+data/GSO/Thomas_Friends_Wooden_Railway_Talking_Thomas_rgba.png: Blue Thomas the Train.
+data/GSO/ZX700_rgba.png: an adidas low-top sneaker have white laces.
