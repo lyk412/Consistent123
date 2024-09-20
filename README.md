@@ -7,8 +7,8 @@
 <p align="center">
 <!-- [paper](https://arxiv.org/abs/2309.17261) | [project page](https://consistent123.github.io/) -->
  <!-- </br> -->
-        <a href="https://arxiv.org/abs/2309.17261"><img src="https://img.shields.io/badge/ArXiv-2309.17261-brightgreen"></a> &nbsp; &nbsp;  &nbsp;
-<a href="https://consistent123.github.io/"><img src="https://img.shields.io/badge/Demo-Consistent123-purple"></a>&nbsp; &nbsp;  &nbsp;
+        <a href="https://arxiv.org/abs/2309.17261"><img src="https://img.shields.io/badge/ArXiv-2309.17261-brightgreen"></a> &nbsp; &nbsp; &nbsp;
+        <a href="https://consistent123.github.io/"><img src="https://img.shields.io/badge/Demo-Consistent123-purple"></a>&nbsp; &nbsp; &nbsp;
     </br>
 <p>
 
