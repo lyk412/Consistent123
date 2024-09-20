@@ -1,13 +1,23 @@
-# Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors [ACMMM 2024]
+######
+<p align="center">
 
-[paper](https://arxiv.org/abs/2309.17261) | [project page](https://consistent123.github.io/)
+  <h2 align="center">Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors </h2>
+
+######
+<p align="center">
+<!-- [paper](https://arxiv.org/abs/2309.17261) | [project page](https://consistent123.github.io/) -->
+ <!-- </br> -->
+        <a href="https://arxiv.org/abs/2309.17261"><img src="https://img.shields.io/badge/ArXiv-2309.17261-brightgreen"></a> &nbsp; &nbsp;  &nbsp;
+<a href="https://consistent123.github.io/"><img src="https://img.shields.io/badge/Demo-Consistent123-purple"></a>&nbsp; &nbsp;  &nbsp;
+    </br>
+<p>
 
 <div align="center">
-    <a href='https://scholar.google.com/citations?user=DBt1fHQAAAAJ' target='_blank'>Yukang Lin</a><sup>*</sup>&emsp;
-    <a href="https://scholar.google.com/citations?user=vLZp870AAAAJ&hl=zh-CN&oi=sra" target='_blank'>Haonan Han</a><sup>*</sup>&emsp;
+    <a href='https://lyk412.github.io/' target='_blank'>Yukang Lin</a><sup>*</sup>&emsp;
+    <a href="https://vincenthancoder.github.io/" target='_blank'>Haonan Han</a><sup>*</sup>&emsp;
     <a target='_blank'>Chaoqun Gong</a>&emsp;
-    <a href='https://scholar.google.com/citations?user=73rbkRgAAAAJ&hl=zh-CN&oi=sra' target='_blank'>Zunnan Xu</a>&emsp;
-    <a href='https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=zh-CN&oi=sra' target='_blank'>Yachao Zhang</a><sup>+</sup>&emsp;
+    <a href='https://kkakkkka.github.io/' target='_blank'>Zunnan Xu</a>&emsp;
+    <a href='https://yachao-zhang.github.io/' target='_blank'>Yachao Zhang</a><sup>+</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Xiu Li</a><sup>+</sup>&emsp;
 </div>
 <div align="center">   
@@ -19,45 +29,48 @@
 </div>
 
 
-**NEWS (2024.09.18)**:
+## Pipeline
+
+![Example Image](assets/pipeline.jpg)
+
+## News:
 * [2024/09/18] Test cases are under `data` folder.
 * [2024/09/16] Code is available. Try it!
 * [2024/07/16] Consistent123 gets accepted to ACMMM 2024.
 
 
-# Getting Started
-Clone the repo:
+# Preliminary
 
 ```bash
+###Clone the repo
 git clone https://github.com/lyk412/Consistent123.git
 cd Consistent123
+###Tested environments: 
+###Ubuntu 22 with python3.8 & torch 1.12.0 & CUDA 11.6 on a A100.
 ```
 
-### Tested environments
-* Ubuntu 22 with python3.8 & torch 1.12.0 & CUDA 11.6 on a A100.
+## Create a python virtual environment
 
-### Create a python virtual environment
+To avoid python package conflicts, we recommend using a virtual environment.
 
-To avoid python package conflicts, we recommend using a virtual environment, e.g.: using conda or venv:
-
-choice 1: venv
+### choice 1: venv
 ```bash
 python -m venv venv_consistent123
 source venv_consistent123/bin/activate 
 ```
-choice 2: conda
+### choice 2: conda
 ```bash
 conda create -n consistent123 python=3.8
 conda activate consistent123
 ```
 
-### Install with pip
+## Install packages with pip tool
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Download pre-trained models
+## Download pre-trained models
 
 To use image-conditioned 3D generation, you need to download some pretrained checkpoints manually:
 * [Zero-1-to-3](https://github.com/cvlab-columbia/zero123) for diffusion backend.
