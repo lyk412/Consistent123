@@ -15,7 +15,7 @@
 <div align="center">
     <a href='https://lyk412.github.io/' target='_blank'>Yukang Lin</a><sup>*</sup>&emsp;
     <a href="https://vincenthancoder.github.io/" target='_blank'>Haonan Han</a><sup>*</sup>&emsp;
-    <a target='_blank'>Chaoqun Gong</a>&emsp;
+    <a href='https://github.com/iecqgong' target='_blank'>Chaoqun Gong</a>&emsp;
     <a href='https://kkakkkka.github.io/' target='_blank'>Zunnan Xu</a>&emsp;
     <a href='https://yachao-zhang.github.io/' target='_blank'>Yachao Zhang</a><sup>+</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Xiu Li</a><sup>+</sup>&emsp;
